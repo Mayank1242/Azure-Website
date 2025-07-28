@@ -30,7 +30,7 @@ const TopNav = () => {
       </div>
       <div className="flex items-center flex-col pt-1 w-1/2">
         <GitHubButton
-          href="https://github.com/eduardconstantin/azure-fundamentals"
+          href="https://github.com/Mayank1242/Azure-Website"
           data-color-scheme="no-preference: light; light: light; dark: dark;"
           data-icon="octicon-star"
           data-size="large"
